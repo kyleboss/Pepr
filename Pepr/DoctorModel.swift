@@ -66,7 +66,7 @@ class DoctorModel: MapEventSubjectModel {
             }
         }
         records = "\(records)]}"
-        let token = "AajDof5hArh8cDHmDWa7mMEOTxSi2L2fL7J8hMgNMjebdtwNqWZLLKSkwVLETC5gpkjWzJa0hmI17aV5PfeJ8X28YLXR9UY4LbmtmaoJVs6novSmQzWS1l9vPBCB3a1WLy1R1Hp5onF_tj2bRw7hCA.."
+        let token = "ARCGIS_Token"
         let url : NSString = "http://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/geocodeAddresses?addresses=\(records)&sourceCountry=USA&token=\(token)&f=pjson"
         let urlStr : NSString = url.stringByAddingPercentEncodingWithAllowedCharacters(NSCharacterSet.URLQueryAllowedCharacterSet())!
         let searchURL : NSURL = NSURL(string: urlStr as String)!
