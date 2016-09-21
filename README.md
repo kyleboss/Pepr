@@ -36,3 +36,5 @@ This app relies heavily on Esri Maps and the Esri Maps API for location calculat
 
 This app was originally made for Grindr's [Hack4Equality](http://www.grindr.com/hack4equality/) Hackathon by Kyle Boss. After
 September 26th, 2016, if you would like to make additions, feel free to put in a Pull Request.
+
+Remember to change the tokens in YelpClient.swift (YELP) and DoctorModel.swift (ESRI).
