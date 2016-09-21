@@ -1,5 +1,7 @@
 # Pepr
-Help folks who need PEP find the doctors &amp; pharmacies who can help...FAST!
+Finding PEP the morning after being exposed to HIV can be scary and confusing, especially when many doctors do not know what
+PEP is and even less pharmacies carry it. Pepr eases this already stressful process by removing unknowns and pointing users
+to the nearest HIV-friendly facilities & providing rides to those in the Promise Zones going to PEP-related appointments.
 
 ## Get Started
 When prompted, allow Pepr to use Location Services
